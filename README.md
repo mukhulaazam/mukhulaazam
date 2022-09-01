@@ -87,12 +87,12 @@ TypeScript   2 hrs 3 mins    ████░░░░░░░░░░░░░
 HTML         1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
 JavaScript   56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-```
+``
 <!--END_SECTION:waka-->
 
-[![Years Badge](https://badges.pufler.dev/years/mukhulaazam)](https://badges.pufler.dev)
+<!-- [![Years Badge](https://badges.pufler.dev/years/mukhulaazam)](https://badges.pufler.dev) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mukhulaazam&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mukhulaazam&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhulaazam)](https://github.com/anuraghazra/github-readme-stats)
 
