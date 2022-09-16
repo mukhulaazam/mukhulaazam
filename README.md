@@ -1,7 +1,31 @@
-#### Greeting 👋,
+#### Greetings 👋✨,
 
 
-**Mamun** is a  tech enthusiastic where I belong a trait of code poetic.✨
+> My given name **Mukhula Azam** and surname is **Mamun**. I am a **Tech Enthusiast**. As **Code Poet**, I have a passion to illustrate poem of code. some of my poem title are 
+```JSON
+{
+  "poem": [
+    {
+      "name": "JavaScript",
+      "value": [
+        "Vue",
+        "Nuxt",
+        "React",
+        "Next",
+        "Angular",
+        "Node",
+        "Express"
+      ]
+    },
+    {
+      "name": "PHP",
+      "value": [
+        "Laravel"
+      ]
+    }
+  ]
+}
+```
 
 <p>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
