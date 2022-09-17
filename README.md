@@ -1,25 +1,19 @@
 #### Greetings 👋✨,
 
 
-> My given name **Mukhula Azam** and surname is **Mamun**. I am a **Tech Enthusiast**. As **Code Poet**, I have a passion to illustrate poem of code. some of my poem title are 
+> My given name **Mukhula Azam** and surname is **Mamun**. I am a **Tech Enthusiast**. As **Code Poet**, I have a passion to illustrate poem of code. some of my famous poem are 
 ```JSON
 {
   "poem": [
     {
-      "name": "JavaScript",
-      "value": [
-        "Vue",
-        "Nuxt",
-        "React",
-        "Next",
-        "Angular",
-        "Node",
-        "Express"
+      "language": "JavaScript",
+      "framework": [
+        "Vue", "Nuxt", "React", "Next", "Angular", "Node", "Express"
       ]
     },
     {
-      "name": "PHP",
-      "value": [
+      "language": "PHP",
+      "framework": [
         "Laravel"
       ]
     }
