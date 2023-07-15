@@ -8,30 +8,21 @@
         "experienced": [
             {
                 "language": "JavaScript",
-                "framework": [
-                    "Vue", "Nuxt", "React", "Next", "Angular", "Node", "Express"
-                ]
+                "framework": [ "Vue", "Nuxt", "React", "Next", "Angular", "Node", "Express" ]
             },
             {
                 "language": "PHP",
-                "framework": [
-                    "Laravel"
-                ]
+                "framework": [ "Laravel" ]
             }
         ],
         "learning": [
             {
                 "language": "Java",
-                "framework": [
-                    "Spring Boot"
-                ]
+                "framework": [ "Spring Boot" ]
             },
             {
                 "platform": "Server",
-                "host": [
-                    "AWS",
-                    "Digital Ocean"
-                ]
+                "host": [ "AWS", "Digital Ocean" ]
             }
         ]
     }
