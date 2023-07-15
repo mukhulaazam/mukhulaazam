@@ -4,20 +4,37 @@
 > I am Mukhula Azam Mamun and dedicated and passionate tech enthusiast with a strong commitment to the art of programming. With expertise in Code Poetry, I seeks to craft elegantly expressive and impactful code that not only functions flawlessly but also captures the imagination of its users. With a keen eye for detail and a deep-rooted enthusiasm for technology, I am dedicated to pushing the boundaries of programming and leaving a lasting impression on those who engage with their work. 
 ```JSON
 {
-  "poem": [
-    {
-      "language": "JavaScript",
-      "framework": [
-        "Vue", "Nuxt", "React", "Next", "Angular", "Node", "Express"
-      ]
-    },
-    {
-      "language": "PHP",
-      "framework": [
-        "Laravel"
-      ]
+    "poem": {
+        "experienced": [
+            {
+                "language": "JavaScript",
+                "framework": [
+                    "Vue", "Nuxt", "React", "Next", "Angular", "Node", "Express"
+                ]
+            },
+            {
+                "language": "PHP",
+                "framework": [
+                    "Laravel"
+                ]
+            }
+        ],
+        "learning": [
+            {
+                "language": "Java",
+                "framework": [
+                    "Spring Boot"
+                ]
+            },
+            {
+                "platform": "Server",
+                "host": [
+                    "AWS",
+                    "Digital Ocean"
+                ]
+            }
+        ]
     }
-  ]
 }
 ```
 
