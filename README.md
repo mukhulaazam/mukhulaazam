@@ -98,12 +98,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on @Dream71 Bangladesh Ltd.
+- 🔭 I’m currently working on @FinTech product.
 - 🌱 I’m currently learning more deep knowledge about Software Architect, Microservice, MicroFrontEnd, with the languages {'laravel','nuxt','node'}
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help for aws, cloud architecture
 - 💬 Ask me about any question
-- 📫 How to reach me: linkedin, skype, whatsapp
+- 📫 How to reach me: linkedin, skype, whatsapp, discord, slack
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
