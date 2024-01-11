@@ -17,8 +17,8 @@
         ],
         "learning": [
             {
-                "language": "Java",
-                "framework": [ "Spring Boot" ]
+                "language": "Go lang",
+                "framework": [ "gin" ]
             },
             {
                 "platform": "Server",
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help for aws, cloud architecture
 - 💬 Ask me about any question
 - 📫 How to reach me: linkedin, skype, whatsapp, discord, slack
-- 😄 Pronouns: ...
+- 😄 Pronouns: MA-MUM
 - ⚡ Fun fact: ...
 
 
