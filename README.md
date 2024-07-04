@@ -18,7 +18,7 @@
         "learning": [
             {
                 "language": "Go lang",
-                "framework": [ "gin", "fiber ]
+                "framework": [ "gin", "fiber" ]
             },
             {
                 "server": [ "nginx" ],
