@@ -1,4 +1,4 @@
-#### Greetings 👋✨,
+### Greetings 👋✨,
 
 
 > I am Mukhula Azam Mamun and dedicated and passionate tech enthusiast with a strong commitment to the art of programming. With expertise in Code Poetry, I seeks to craft elegantly expressive and impactful code that not only functions flawlessly but also captures the imagination of its users. With a keen eye for detail and a deep-rooted enthusiasm for technology, I am dedicated to pushing the boundaries of programming and leaving a lasting impression on those who engage with their work. 
@@ -99,7 +99,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on @FinTech product.
-- 🌱 I’m currently learning more deep knowledge about Software Architect, Microservice, MicroFrontEnd, with the languages {'laravel','nuxt','node'}
+- 🌱 I’m currently learning more deep knowledge about Software Architect, Microservice, MicroFrontEnd, with the languages {'go','laravel','nuxt','node'}
 - 👯 I’m looking to collaborate on [ aws, mieroservice, system design ]
 - 🤔 I’m looking for help for aws, cloud architecture
 - 💬 Ask me about any question
@@ -108,12 +108,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mukhulaazam&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mukhulaazam&theme=nightowl&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
 
-##### 🤝🏻 Connect with Me
+#### 🤝🏻 Connect with Me
 
 <p align="center">
 
