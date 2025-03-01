@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about any question
 - 📫 How to reach me: linkedin, skype, whatsapp, discord, slack
 - 😄 Pronouns: MA-MUM
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Very complicated but simple 
 
 
 
