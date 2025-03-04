@@ -8,7 +8,7 @@
         "experienced": [
             {
                 "language": "JavaScript",
-                "framework": [ "Vue", "Nuxt", "React", "Next", "Angular", "Node", "Express" ]
+                "framework": [ "Vue", "Nuxt", "React", "Next", "Angular", "Node", "Express", "NestJs" ]
             },
             {
                 "language": "PHP",
