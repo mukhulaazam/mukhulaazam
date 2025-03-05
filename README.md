@@ -1,4 +1,4 @@
-### Greetings 👋✨,
+f### Greetings 👋✨,
 
 
 > I am Mukhula Azam Mamun and dedicated and passionate tech enthusiast with a strong commitment to the art of programming. With expertise in Code Poetry, I seeks to craft elegantly expressive and impactful code that not only functions flawlessly but also captures the imagination of its users. With a keen eye for detail and a deep-rooted enthusiasm for technology, I am dedicated to pushing the boundaries of programming and leaving a lasting impression on those who engage with their work. 
@@ -14,15 +14,15 @@
                 "language": "PHP",
                 "framework": [ "Laravel" ]
             }
-        ],
+        ],f
         "learning": [
-            {
+            {f
                 "language": "Go lang",
                 "framework": [ "gin", "fiber" ]
             },
             {
                 "server": [ "nginx" ],
-                "host": [ "AWS", "Digital Ocean" ]
+                "host": [ "AWS", "Digital Ocean,," ]
             }
         ]
     }
