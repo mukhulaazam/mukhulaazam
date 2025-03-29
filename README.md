@@ -14,9 +14,9 @@ f### Greetings 👋✨,
                 "language": "PHP",
                 "framework": [ "Laravel" ]
             }
-        ],f
+        ],
         "learning": [
-            {f
+            {
                 "language": "Go lang",
                 "framework": [ "gin", "fiber" ]
             },
